@@ -6,7 +6,7 @@
 - ⚡ Fun fact: none becouse I m so far from being curious and funy!
 - :eyes: You have problem with your bot? Join to us! [Discord](https://discord.gg/2y2qXQzff6)
 
-[<img  src="https://cdn.discordapp.com/attachments/898227147255197716/898287238977323019/static.png" />[Discord]
+[<img  src="https://cdn.discordapp.com/attachments/898227147255197716/898287238977323019/static.png" />][Discord]
 
 ### My projects :octocat:
 ###### My public bot comming soon!
