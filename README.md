@@ -5,7 +5,7 @@
 - 📫 How to reach me? U reach me here [Discord](https://discord.gg/2y2qXQzff6)
 - ⚡ Fun fact: none becouse I m so far from being curious and funy!
 - :eyes: You have problem with your bot? Join to us! [Discord](https://discord.gg/2y2qXQzff6)
-[<img src="https://share.creavite.co/qYMLYy5gK0M2Kp1G.gif" />
+[<img alt="co" src="https://share.creavite.co/qYMLYy5gK0M2Kp1G.gif" />
 
 ### My projects :octocat:
 ###### My public bot comming soon!
