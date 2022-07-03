@@ -4,6 +4,8 @@
 - 💬 Ask me about discord bots ;D
 - ⚡ Fun fact: none becouse I m so far from being curious and funy!
 
+**Mój dodatkowy projekt**
+https://github.com/Matik1665/Ader-bot
 
 ### My projects :octocat:
 ###### My public bot comming soon!
