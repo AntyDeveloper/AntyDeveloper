@@ -1,4 +1,4 @@
-<h1 align="center">Cześć jestem Kacper!</h1>
+<h1 align="center">Cześć jestem Kacper! :wave: </h1>
 
 ###
 
@@ -8,11 +8,11 @@
 
 ###
 
-<h2 align="center">FrontEnd Developer</h2>
+<h2 align="center">:black_circle: FrontEnd Developer :black_circle:</h2>
 
 ###
 
-<h2 align="center">Mój stack</h2>
+<h2 align="center">:page_with_curl: Mój stack :page_with_curl:</h2>
 
 ###
 
@@ -23,9 +23,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
 </div>
 
+
+
 ###
 
-<h2 align="center">Nowo nabyte języki</h2>
+<h2 align="center">:warning: Nowo nabyte języki :warning:</h2>
 
 ###
 
