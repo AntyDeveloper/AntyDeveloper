@@ -4,9 +4,10 @@
 # 📊 GitHub Stats:
 <p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=AntyDeveloper\&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  </p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AntyDeveloper\&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntyDeveloper\&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AntyDeveloper\&icon=7&color=11)](https://visitcount.itsvg.in)
